@@ -37,3 +37,10 @@ body {
 .navbar-inverse{
 	background-color: #512DA8;
 }
+
+.btn {
+    position:absolute;
+    transition: .5s ease;
+    top: 40%;
+    left: 5%;
+}
