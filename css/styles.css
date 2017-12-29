@@ -52,3 +52,19 @@ body {
 	left: 0;
 	min-height: 300px;
 }
+
+
+
+.modal-lg {
+    width: 600px; /* New width for large modal */
+}
+
+
+.btn-group1{
+    margin-right:335px;
+}
+
+#btn123{
+    margin-left:0px;
+}
+  
